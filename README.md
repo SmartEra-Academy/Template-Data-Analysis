@@ -1,7 +1,7 @@
 Data Analysis Course XXXX-XXXX-X
 ================
 
-**Note to those forking this repository: Replace 2024-2025 with the years of the course everywhere here so that everything works**
+**Note to those forking this repository: Replace XXXX-XXXX-X with the years of the course and season of course everywhere here so that everything works**
 
 This is the repository that we will use for our collaborative work and for uploading all the assignments for our course.
 
